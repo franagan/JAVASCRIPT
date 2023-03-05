@@ -1,4 +1,4 @@
 let y = 10;
 let z = 5;
-let x = (a * b);
+let x = (y * z);
 alert(x);
