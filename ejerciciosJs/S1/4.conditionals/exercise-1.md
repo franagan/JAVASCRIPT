@@ -27,7 +27,7 @@ if (number3 * 5 == number1) {
 }
 
 if (number3 * 5 = number1 && number1 * 2 == number2) {
-  console.log("number3 por 5 es igual a number1 Y number1 por 2 es igual a number2");
+  console.log("number3 por 5 es igual a number1 y number1 por 2 es igual a number2");
 }
 
 if (number2 / 2 == number1 || number1 / 5 == numer3) {
